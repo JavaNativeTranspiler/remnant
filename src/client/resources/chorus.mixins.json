@@ -1,0 +1,49 @@
+{
+  "required": true,
+  "package": "chorus0.asm",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "accessors.ChatMessageC2SPacketAccessor",
+    "accessors.PlayerEntityAccessor",
+    "accessors.PlayerInteractEntityC2SPacketAccessor",
+    "mixins.ClientConnectionMixin",
+    "mixins.ClientPlayerInteractionManagerMixin",
+    "mixins.CobwebBlockMixin",
+    "mixins.EntityMixin",
+    "mixins.FireworkRocketEntityMixin",
+    "mixins.GameRendererMixin",
+    "mixins.InGameHudMixin",
+    "mixins.ItemMixin",
+    "mixins.LivingEntityMixin",
+    "mixins.MinecraftClientMixin",
+    "mixins.PlayerEntityMixin",
+    "mixins.TextVisitFactoryMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "accessors.HandledScreenAccessor",
+    "accessors.HeldItemRendererAccessor",
+    "accessors.MinecraftClientAccessor",
+    "accessors.MouseHandlerAccessor",
+    "accessors.WorldRendererAccessor",
+    "mixins.CapeFeatureRendererMixin",
+    "mixins.ChatInputSuggestorMixin",
+    "mixins.ClientPlayerEntityMixin",
+    "mixins.ClientPlayNetworkHandlerMixin",
+    "mixins.ClientWorldMixin",
+    "mixins.EntityRenderDispatcherMixin",
+    "mixins.EntityRendererMixin",
+    "mixins.HeldItemRendererMixin",
+    "mixins.InGameOverlayRendererMixin",
+    "mixins.InputMixin",
+    "mixins.KeybindingMixin",
+    "mixins.KeyboardInputMixin",
+    "mixins.KeyboardMixin",
+    "mixins.LivingEntityRendererMixin",
+    "mixins.PlayerListEntryMixin",
+    "mixins.RenderTickCounterMixin",
+    "mixins.WorldRendererMixin"
+  ]
+}

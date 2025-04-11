@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "chorus",
+	"version": "1.0",
+	"name": "Chorus",
+	"entrypoints": {
+		"main": [
+          "chorus0.Chorus"
+		]
+	},
+	"mixins": [
+		"chorus.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.2",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"custom": {
+		"modmenu": {
+			"badges": ["library"],
+			"parent": {
+				"id": "fabric-api"
+			}
+		}
+	}
+}
