@@ -1,5 +1,14 @@
 <h1 align="center">remnant (squabble up)</h1>
 
+# attention
+
+pathos (lead dev) has decided to now exit scam, he has taken down the website as well as shut down the VPS. <br>
+146.71.78.242 murda squad 😈 (remnant's VPS which is now down) <br>
+he is also no longer active on his discord account and doesn't speak anymore <br>
+<img src="https://i.imgur.com/QU2HYHL.png">
+
+# explanation
+
 Please just save up and buy a proper protection tool instead of letting random people handle obfuscation. <br>
 And.. maybe don't throw stones from a glass house :sob:
 
