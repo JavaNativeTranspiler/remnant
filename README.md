@@ -1,13 +1,8 @@
 <h1 align="center">remnant (squabble up)</h1>
 
 # attention
-
-**the website is now back, might be courtesy of the other developers but pathos still remains inactive and offline**
-
-pathos (lead dev) has decided to now exit scam, he has taken down the website as well as shut down the VPS. <br>
-146.71.78.242 murda squad 😈 (remnant's VPS which is now down) <br>
-he is also no longer active on his discord account and doesn't speak anymore <br>
-<img src="https://i.imgur.com/QU2HYHL.png">
+After some time and stuff, genuinely no hate to pathos, he took it like a man and didn't grow out the beef any further. <br>
+I respect it, he did not exit scam and eventually came back.
 
 # explanation
 
