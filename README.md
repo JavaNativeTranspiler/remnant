@@ -2,6 +2,8 @@
 
 # attention
 
+**the website is now back, might be courtesy of the other developers but pathos still remains inactive and offline**
+
 pathos (lead dev) has decided to now exit scam, he has taken down the website as well as shut down the VPS. <br>
 146.71.78.242 murda squad 😈 (remnant's VPS which is now down) <br>
 he is also no longer active on his discord account and doesn't speak anymore <br>
