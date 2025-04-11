@@ -4,3 +4,5 @@ Please just save up and buy a proper protection tool instead of letting random p
 And.. maybe don't throw stones from a glass house :sob:
 
 <img src="https://i.imgur.com/LKfAeqg.png">
+
+To everyone else, don't cheap out on protection, might take longer to save up for it but it is worth it.
