@@ -1,4 +1,4 @@
-<h1 align="center">remnant (squabble up)</h1>
+mo <h1 align="center">remnant (squabble up)</h1>
 
 # attention
 After some time and stuff, genuinely no hate to pathos, he took it like a man and didn't grow out the beef any further. <br>
@@ -19,5 +19,4 @@ Also no hate to polymorphism itself, it's not exactly good but I don't have anyt
 <img src="https://i.imgur.com/F69dbxr.png">
 
 P.S. from dyrk (dev)
-this was always a fucking failed project ever since we ported everything to 1.21.4. i told pathos that it would be better to just start over since most stuff just broke (including the rotations). only decent thing here is the render engine (courtosy of moof). why was i doing the auth anyway, im literally "the menu dev"? (dont check the menu code lollll)
-anyway dont use this for anything, not for skidding, not for casual usage this client sucks balls please just use ANYTHING else.
+sorry.
