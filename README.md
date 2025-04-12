@@ -1,4 +1,4 @@
-mo <h1 align="center">remnant (squabble up)</h1>
+<h1 align="center">remnant (squabble up)</h1>
 
 # attention
 After some time and stuff, genuinely no hate to pathos, he took it like a man and didn't grow out the beef any further. <br>
